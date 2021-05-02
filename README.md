@@ -5,7 +5,7 @@
 1. There is no dealer, it requires at least two players to play against all other players. Before each game starts, it costs each player a base point which is usually customised to be the minimum calling point in the game. So each game always starts with some points in the "pot"!
 
 2. Card score
-    Any number card's score is its rank, e.g. a card with rank 6 has a score of 6 regardless of its suit.
+ Any number card's score is its rank, e.g. a card with rank 6 has a score of 6 regardless of its suit.
     J scores 11 point, Q scores 12, K scores 13 and A scores 15; again suit doesn't matter.
     black Joker scores 17 points while red Joker scores 19 points.
     There is also an extra card called "special card", it doesn't have any rank or suit, its score is 21 points. This card normally comes with a brand new deck used as a branding card from the card producer but now it has been put into a good use:)
