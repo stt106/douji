@@ -9,7 +9,7 @@
     black Joker scores 17 points while red Joker scores 19 points.
     There is also an extra card called "special card", it doesn't have any rank or suit, its score is 21 points. This card normally comes with a brand new deck used as a branding card from the card producer but now it has been put into a good use:)
 
-3. There are mainly two versions of the game\s\s:
+3. There are mainly two versions of the game:\s\s
     V1. Each player starts with one hidden card (visible to himself/herself only until the final round) and one public card (visible to everyone).\s\s
     V2. Each player starts with two hidden cards, no public card.\s\s
     After it starts, in V1, there are 4 rounds and in V2 there are 5 rounds. In both cases, there is no card dealing (since there are hidden cards) in the final round where players compares final score taking into account of the hidden cards. Before the final round, for any player stays in the game, a new public card is dealt. \s\s
