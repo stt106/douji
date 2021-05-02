@@ -9,16 +9,16 @@
     black Joker scores 17 points while red Joker scores 19 points.
     There is also an extra card called "special card", it doesn't have any rank or suit, its score is 21 points. This card normally comes with a brand new deck used as a branding card from the card producer but now it has been put into a good use:)
 
-3. There are mainly two versions of the game\n:
-    V1. Each player starts with one hidden card (visible to himself/herself only until the final round) and one public card (visible to everyone).
-    V2. Each player starts with two hidden cards, no public card.
-    After it starts, in V1, there are 4 rounds and in V2 there are 5 rounds. In both cases, there is no card dealing (since there are hidden cards) in the final round where players compares final score taking into account of the hidden cards. Before the final round, for any player stays in the game, a new public card is dealt. 
+3. There are mainly two versions of the game\s\s:
+    V1. Each player starts with one hidden card (visible to himself/herself only until the final round) and one public card (visible to everyone).\s\s
+    V2. Each player starts with two hidden cards, no public card.\s\s
+    After it starts, in V1, there are 4 rounds and in V2 there are 5 rounds. In both cases, there is no card dealing (since there are hidden cards) in the final round where players compares final score taking into account of the hidden cards. Before the final round, for any player stays in the game, a new public card is dealt. \s\s
     So in V1, a player at most gets a hand of 5 cards (1 hidden and 4 public) and in V2 a player at most gets a hand of 6 cards (2 hidden and 4 public).
 
 4. Scores:
-    Face score is each player's *last* public card score.
-    A player's public score is the sum of all public cards' score. 
-    A player's final score is the sum of all cards score, including both hidden and public cards.
+    *Face score is each player's *last* public card score.
+    *A player's public score is the sum of all public cards' score. 
+    *A player's final score is the sum of all cards score, including both hidden and public cards.
 
 5. At the final round, a player with the largest final score wins the game. When there is a tie in the final score; it's called "bombed pot" meaning there is no winner in the current game; it continues to the next game where on base point is needed from each player, the bombed pot from the last game is the starting pot of the new game. This continues until there is a winner in the current game and the next game starts as normal. It's rare but possible to have consecutive bobmed pots; this is another reason why I find this game interesting. You may lose before the final round but you never know what happens until the very end!
 
