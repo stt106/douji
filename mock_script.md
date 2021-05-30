@@ -1,0 +1,1 @@
+mockgen -source=model.go -package=douji -destination=mock_douji.go
