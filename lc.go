@@ -13,7 +13,7 @@ type GameStats struct {
 	Points   int    `json:"points"`
 }
 
-// LeanCloud is a serverless cloud provider.
+// LeanCloudDB is a wrapper of LeanCloud which is a serverless cloud provider.
 type LeanCloudDB struct {
 	client *leancloud.Client
 }
@@ -37,16 +37,11 @@ func (lc LeanCloudDB) CreatePlayer(name string, password string, points int) (st
 	if err != nil {
 		panic(err)
 	}
-	// player, err := lc.client.Users.LogIn(name, password)
-	// if err != nil {
-	// 	panic(err)
-	// }
 
-	// TODO: why does this NOT work?
-	// err = lc.client.Users.ID(player.ID).Set("points", points)
-	// if err != nil {
-	// 	panic(err)
-	// }
+	err = lc.client.User(player).Set("points", points, leancloud.UseUser(player))
+	if err != nil {
+		panic(err)
+	}
 	return player.ID, nil
 }
 

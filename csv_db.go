@@ -37,9 +37,13 @@ func (c csvDb) SaveGameStats(setId string, gameId int, players []PlayerDTO) erro
 	return nil
 }
 
-func (c csvDb) LoadPlayerStats(playerID int) PlayerDTO {
+func (csv csvDb) CreatePlayer(name, password string, points int) (string, error) {
+	return "", nil
+}
+
+func (c csvDb) LoadPlayerStatsByName(name string) *Player {
 	// TODO: fix this!
-	return PlayerDTO{}
+	return &Player{}
 	// return new PlayerDTO{ID: playerID, }
 }
 

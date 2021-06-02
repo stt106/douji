@@ -1,1 +1,4 @@
-/main
+/main/.leancloud
+/main/douji
+.DS_Store
+*.env

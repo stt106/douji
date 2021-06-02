@@ -22,6 +22,11 @@ func NewPlayer(name, password string, points int, db Db) *Player {
 	return &Player{Name: name, points: points, id: id}
 }
 
+// This shall be in the test file but because main package can't access functions in test files; it's moved here.
+func NewTestPlayer(name, id string, points int) *Player {
+	return &Player{Name: name, id: id, points: points}
+}
+
 // func GetPlayerById(db Db, id string) *Player {
 // 	pdto := db.LoadPlayerStats(id)
 // 	return NewPlayer(pdto.Name)

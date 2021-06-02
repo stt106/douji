@@ -30,10 +30,6 @@ func TestAddNewPlayer(t *testing.T) {
 	// }
 }
 
-func NewTestPlayer(name, id string, points int) *Player {
-	return &Player{Name: name, id: id, points: points}
-}
-
 func TestStartGame(t *testing.T) {
 	for _, tc := range []struct {
 		hiddenCount int
